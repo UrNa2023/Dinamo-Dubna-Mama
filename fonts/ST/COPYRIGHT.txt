@@ -1,0 +1,8 @@
+Alexander "STAN" Shimanov
+Font family: 'ST-Warmovie-personal';
+
+@font-face {
+	font-family: 'ST-Warmovie-personal'; 
+	src: local('Font Name'),
+		url(/fonts/ST/ST-Warmovie-noncommercial.otf); 
+}

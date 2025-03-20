@@ -1,0 +1,76 @@
+.main {
+	width: 100%;
+}
+
+.main__block-club {
+	margin: 5% 0;
+	display: flex;
+	position: relative;
+	gap: 3%;
+	font-size: 16px;
+}
+
+.block-club-img {
+	width: 40%;
+	border-radius: 20%;
+}
+
+.main__block-club-content {
+	flex-grow: 1;
+	padding: 1%;
+
+	
+}
+h2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	text-align: center;
+	background: linear-gradient(90deg, #313155, #52c9b1, #313155);
+	background-repeat: no-repeat;
+	/* background-size: 80%; */
+	animation: animate 3s linear infinite;
+	background-clip: text;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: rgba(255, 255, 255, 0);
+}
+
+
+
+.block__club-content {
+	font-size: 16px;
+}
+
+h3 {
+	font-size: 18px	;
+	font-weight: 300;
+}
+
+.block__club-list {
+	list-style-type: none;
+}
+.club__list-link:first-letter  {
+	text-transform: uppercase;
+	color: var(--color-ordinary);
+
+}
+
+
+
+
+
+
+
+
+
+
+
+@media (width >= 1140px) {}
+@media (width <= 1024px) {}
+@media (width >= 860px) {}
+@media (width <= 768px) {
+	.block-club-img {
+	display: none;
+	}
+}
+@media (width >= 620px) {}
+@media (width <= 320px) {}

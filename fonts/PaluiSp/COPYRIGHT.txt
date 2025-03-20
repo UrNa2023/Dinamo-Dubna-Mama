@@ -1,0 +1,9 @@
+designside.t.me
+
+Font family: 'Palui SP Demo'
+
+@font-face {
+	font-family: 'Palui SP Demo'; 
+	src: local('Font Name'),
+		url(/fonts/PaluiSPDemo-Bold.otf); 
+}
