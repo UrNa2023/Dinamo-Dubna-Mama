@@ -1,13 +1,13 @@
 @font-face {
 	font-family: 'Palui SP Demo'; 
 	src: local('Font Name'),
-		url(/fonts/PaluiSPDemo-Bold.otf); 
+		url(../fonts/PaluiSP/PaluiSPDemo-Bold.otf); 
 }
 
 @font-face {
 	font-family: 'ST-Warmovie-personal'; 
 	src: local('Font Name'),
-		url(/fonts/ST/ST-Warmovie-noncommercial.otf); 
+		url(../fonts/ST/ST-Warmovie-noncommercial.otf); 
 }
 
 html {
